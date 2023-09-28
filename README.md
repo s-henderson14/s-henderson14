@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @s-henderson14
-- 🌱 Currently learning Python & about to begin with C.
+- 🌱 Currently learning C at Codam Coding College in Amsterdam.
 - 💞️ Looking to collaborate on anything to help understand git better.
-- 📫 How to reach me seanhenderson1314@gmail.com
 
 <!---
 s-henderson14/s-henderson14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
