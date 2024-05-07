@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @s-henderson14
-- 🌱 Currently learning C at Codam Coding College in Amsterdam.
+
+- Studying for MS AZ-500
+- Busy with HacktheBox and moving towards an OSCP cert or HacktheBox CPTS.
 
 <!---
 s-henderson14/s-henderson14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
